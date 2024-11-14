@@ -2,22 +2,22 @@
 layout: single
 title: "블로그 만들기."
 ---
-#1-1. Repository 생성하기
+# 1-1. Repository 생성하기
 
 - github username, repository name 동일하게 생성 ex) ChoJeonghyeon -> ChoJeonghyeon.github.io
 
-##1-2. 확인하기
+## 1-2. 확인하기
 
 - repository를 clone해서 안에 간단하게 html를 짠 후 add, commit, push 과정을 통해 정상적으로 페이지가 생성했는지 확인
 
-#2-1. 개발 환경 구축
+# 2-1. 개발 환경 구축
 
 - ruby
 - jekyll
 - bundler
 - webrick 설치하기
 
-##2-2 테마 적용해서 잘 설치가 되었는지 확인하기
+## 2-2 테마 적용해서 잘 설치가 되었는지 확인하기
 
 - 마음에 드는 테마를 본인이 클론한 저장소에 테마를 넣고
 - bundle install
