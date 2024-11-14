@@ -4,11 +4,14 @@ title: "블로그 만들기."
 ---
 # 1-1. Repository 생성하기
 
-- github username, repository name 동일하게 생성 ex) ChoJeonghyeon -> ChoJeonghyeon.github.io
+- github username, repository name 동일하게 생성
+<span style="color: blue">ex) ChoJeonghyeon -> ChoJeonghyeon.github.io</span>
 
 ## 1-2. 확인하기
 
-- repository를 clone해서 안에 간단하게 html를 짠 후 add, commit, push 과정을 통해 정상적으로 페이지가 생성했는지 확인
+- repository를 clone해서 안에 간단하게 html를 만들기
+- add, commit, push 과정을 진행
+- 1-1에서 만든 주소를 통해 정상적으로 html 잘 만들어졌는지 확인
 
 # 2-1. 개발 환경 구축
 
