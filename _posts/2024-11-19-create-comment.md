@@ -8,6 +8,7 @@ title: "댓글 기능 추가하기."
 ## 1-1. Disqus
 
 - Get stared 버튼 누르기
+  ![](/assets/img/disqus1.png)
 - 프로필 작성하기
 - 무료버전 구독하기
 - Jekyll로 설정하기
