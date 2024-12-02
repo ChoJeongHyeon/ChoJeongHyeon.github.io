@@ -18,14 +18,14 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 locale: "ko-KR"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
 title: "ChoJeongHyeon Blog"
-title_separator: "ChoJeongHyeon Blog - Home"
+title_separator: " - "
 subtitle: "낙서장" # site tagline that appears below site title in masthead
 name: "ChoJeongHyeon"
 description: "Daily"
 url: "https://ChoJeongHyeon.github.io"
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: "https://ChoJeongHyeon.github.io/blog" # the subpath of your site, e.g. "/blog"
 repository: ChoJeongHyeon.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: "/assets/imag/snow.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: "/assets/img/snow.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: # true, false (default)
