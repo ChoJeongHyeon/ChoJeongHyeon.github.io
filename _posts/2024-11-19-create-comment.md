@@ -37,3 +37,8 @@ title: "댓글 기능 추가하기."
 
   - Ads에 들어가면 기본값으로 광고가 설정이 되어 있는 것을 확인할 수 있다. 밑줄 친 곳을 확인 해 저장해주면 광고를 삭제할 수 있다.
     ![](/assets/img/disqus advertise.png)
+
+  ## 3-2 댓글 상단에 공감 기능 추가하기
+
+  - Reactions를 통해 여러가지 감정 표현을 넣을 수 있다.
+    ![](/assets/img/disqus_em.png)
