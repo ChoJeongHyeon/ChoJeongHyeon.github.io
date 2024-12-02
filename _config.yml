@@ -118,12 +118,6 @@ author:
   location: "Seoul"
   email: "0429cjhn@naver.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ChoJeongHyeon"
@@ -133,12 +127,6 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/watch?v=Ox29z5Nf1Uk"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/"
 
 # Site Footer
 footer:
