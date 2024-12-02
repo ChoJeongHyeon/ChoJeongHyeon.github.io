@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "검색엔진 등록하기."
+title: "검색엔진 등록하기. (google, naver)"
 ---
 
 # 1. Google Search Console
@@ -36,3 +36,23 @@ title: "검색엔진 등록하기."
 - 다음과 같이 본인 주소 뒤에 /sitemap.xml을 넣고 확인하기
   ![](/assets/img/g_clear.png)
 - 다음과 같은 화면이 나오면 정상적으로 등록되었다는 것을 알 수 있다.
+
+# 3. 네이버 Search Advisor
+
+## 3-1. 네이버 Search Advisor
+
+- https://searchadvisor.naver.com/ 해당 주소로 들어가기
+- 웹 마스터 도구 들어가기
+  ![](/assets/img/n_start.png)
+- 사이트 등록에 본인 블로그 주소 넣어주기
+  ![](/assets/img/n_2.png)
+- html 태그로 눌러주고, 아래 content 내용을 복사한다.
+  ![](/assets/img/n_3.png)
+
+# 4. vscode
+
+## 4-1. vscode
+
+- \_config.yml파일 "naver_site_verification:" 반영해주면 된다.
+  ![](/assets/img/n_vscode.png)
+- 변경한 내용을 git add, commit, push 과정을 통해 반영해주기
