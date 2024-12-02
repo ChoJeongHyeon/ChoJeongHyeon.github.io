@@ -56,3 +56,16 @@ title: "검색엔진 등록하기. (google, naver)"
 - \_config.yml파일 "naver_site_verification:" 반영해주면 된다.
   ![](/assets/img/n_vscode.png)
 - 변경한 내용을 git add, commit, push 과정을 통해 반영해주기
+
+## 3-2. 네이버 Search Advisor
+
+- 소유확인을 누르고 인증을 진행한다.
+  ![](/assets/img/n_check.png)
+- 해당 주소로 들어간다.
+  ![](/assets/img/n_7.png)
+- 요약, 리포트 등 다양한 내용들을 확인할 수 있다. 하지만 등록한다고 해서 바로 반영이 되는 것이 아니라서 짧게는 2-3일 길게는 한달이라는 시간이 걸린다.
+  ![](/assets/img/n_8.png)
+- 사이트맵 제출하기
+  ![](/assets/img/n_9.png)
+- Robots.txt 제출하기
+  ![](/assets/img/n_10.png)
