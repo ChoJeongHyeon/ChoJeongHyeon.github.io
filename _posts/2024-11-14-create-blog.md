@@ -2,6 +2,7 @@
 layout: single
 title: "블로그 만들기."
 categories: blog
+tag: study
 ---
 
 # 1-1. Repository 생성하기

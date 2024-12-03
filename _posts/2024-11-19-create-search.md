@@ -2,6 +2,7 @@
 layout: single
 title: "검색엔진 등록하기. (google, naver)"
 categories: blog
+tag: study
 ---
 
 # 1. Google Search Console

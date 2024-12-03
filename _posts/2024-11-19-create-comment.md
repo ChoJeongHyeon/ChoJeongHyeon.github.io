@@ -2,6 +2,7 @@
 layout: single
 title: "댓글 기능 추가하기."
 categories: blog
+tag: study
 ---
 
 # 1 Disqus
