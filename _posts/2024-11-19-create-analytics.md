@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "조회수-구글 analytics 추가하기."
+categories: blog
 ---
 
 # 1. google analytics
