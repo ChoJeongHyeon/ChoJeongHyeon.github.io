@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "검색엔진 등록하기. (google, naver)"
+categories: blog
 ---
 
 # 1. Google Search Console

@@ -1,11 +1,13 @@
 ---
 layout: single
 title: "블로그 만들기."
+categories: blog
 ---
+
 # 1-1. Repository 생성하기
 
 - github username, repository name 동일하게 생성
-<span style="color: blue">ex) ChoJeonghyeon -> ChoJeonghyeon.github.io</span>
+  <span style="color: blue">ex) ChoJeonghyeon -> ChoJeonghyeon.github.io</span>
 
 ## 1-2. 확인하기
 
@@ -31,4 +33,3 @@ title: "블로그 만들기."
 
 - mac을 사용하는 유저로 ruby설치 과정이 달랐고 혼자서 이것저것 설치하는 과정에서 버전이 맞지 않아 Homebrew를 지우고 재설치를 진행하였다.
 - gem install jekyll bundler명령어를 통해 jekyll와 bundler를 한번에 설치 했고 bundler 버전이 맞지 않아 버전을 맞추어 주었다.
-
